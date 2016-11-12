@@ -1,0 +1,332 @@
+[
+  {
+    "lat": 40.423853,
+    "lng": -3.712247,
+    "type": "ECA",
+    "name": "Pza. de España"
+  },
+  {
+    "lat": 40.4215639,
+    "lng": -3.6823194444444445,
+    "type": "ECA",
+    "name": "Escuelas Aguirre"
+  },
+  {
+    "lat": 40.451475,
+    "lng": 3.6773555555555553,
+    "type": "ECA",
+    "name": "Avda. Ramón y Cajal"
+  },
+  {
+    "lat": 40.4400472,
+    "lng": -3.6392333333333333,
+    "type": "ECA",
+    "name": "Arturo Soria"
+  },
+  {
+    "lat": 40.3471389,
+    "lng": -3.713322222222222,
+    "type": "ECA",
+    "name": "Villaverde"
+  },
+  {
+    "lat": 40.3947806,
+    "lng": -3.7318527777777777,
+    "type": "ECA",
+    "name": "Farolillo"
+  },
+  {
+    "lat": 40.4193556,
+    "lng": -3.7473472222222224,
+    "type": "ECA",
+    "name": "Casa de Campo"
+  },
+  {
+    "lat": 40.4769278,
+    "lng": -3.580030555555555,
+    "type": "ECA",
+    "name": "Barajas Pueblo"
+  },
+  {
+    "lat": 40.4192083,
+    "lng": -3.7031722222222223,
+    "type": "ECA",
+    "name": "Pza. del Carmen"
+  },
+  {
+    "lat": 40.4079472,
+    "lng": -3.6453055555555554,
+    "type": "ECA",
+    "name": "Moratalaz"
+  },
+  {
+    "lat": 40.4455444,
+    "lng": -3.707127777777778,
+    "type": "ECA",
+    "name": "Cuatro Caminos"
+  },
+  {
+    "lat": 40.4782278,
+    "lng": -3.7115416666666667,
+    "type": "ECA",
+    "name": "Barrio del Pilar"
+  },
+  {
+    "lat": 40.3881528,
+    "lng": -3.6515222222222223,
+    "type": "ECA",
+    "name": "Vallecas"
+  },
+  {
+    "lat": 40.3981139,
+    "lng": -3.6868250000000002,
+    "type": "ECA",
+    "name": "Mendez Alvaro"
+  },
+  {
+    "lat": 40.4398972,
+    "lng": -3.690366666666667,
+    "type": "ECA",
+    "name": "Castellana"
+  },
+  {
+    "lat": 40.4144444,
+    "lng": -3.682583333333333,
+    "type": "ECA",
+    "name": "Parque del Retiro"
+  },
+  {
+    "lat": 40.4655722,
+    "lng": -3.6887694444444445,
+    "type": "ECA",
+    "name": "Plaza Castilla"
+  },
+  {
+    "lat": 40.3729333,
+    "lng": -3.6121166666666666,
+    "type": "ECA",
+    "name": "Ensanche de Vallecas"
+  },
+  {
+    "lat": 40.4625306,
+    "lng": -3.580747222222222,
+    "type": "ECA",
+    "name": "Urb. Embajada"
+  },
+  {
+    "lat": 40.3849639,
+    "lng": -3.718727777777778,
+    "type": "ECA",
+    "name": "Pza. Fernández Ladreda"
+  },
+  {
+    "lat": 40.4942083,
+    "lng": -3.660502777777778,
+    "type": "ECA",
+    "name": "Sanchinarro"
+  },
+  {
+    "lat": 40.5180583,
+    "lng": -3.774611111111111,
+    "type": "ECA",
+    "name": "El Pardo"
+  },
+  {
+    "lat": 40.46525,
+    "lng": -3.6090722222222222,
+    "type": "ECA",
+    "name": "Juan Carlos I"
+  },
+  {
+    "lat": 40.5005889,
+    "lng": -3.6897611111111113,
+    "type": "ECA",
+    "name": "Tres Olivos"
+  },
+  {
+    "lat": 40.4233333,
+    "lng": -3.6908333333333334,
+    "type": "ECONA",
+    "name": "Pº Recoletos"
+  },
+  {
+    "lat": 40.41,
+    "lng": -3.690277777777778,
+    "type": "ECONA",
+    "name": "Carlos V"
+  },
+  {
+    "lat": 40.4211111,
+    "lng": -3.7047222222222222,
+    "type": "ECONA",
+    "name": "Plaza del Carmen"
+  },
+  {
+    "lat": 40.4277778,
+    "lng": -3.7111111111111112,
+    "type": "ECONA",
+    "name": "Plaza de España"
+  },
+  {
+    "lat": 40.4769444,
+    "lng": -3.715277777777778,
+    "type": "ECONA",
+    "name": "Bº del Pilar"
+  },
+  {
+    "lat": 40.4425,
+    "lng": -3.6894444444444447,
+    "type": "ECONA",
+    "name": "Gregorio Marañón"
+  },
+  {
+    "lat": 40.4255556,
+    "lng": -3.681111111111111,
+    "type": "ECONA",
+    "name": "Escuelas Aguirre"
+  },
+  {
+    "lat": 40.4438889,
+    "lng": -3.705,
+    "type": "ECONA",
+    "name": "Cuatro Caminos"
+  },
+  {
+    "lat": 40.4525,
+    "lng": -3.6758333333333333,
+    "type": "ECONA",
+    "name": "Ramón y Cajal"
+  },
+  {
+    "lat": 40.4311111,
+    "lng": -3.667222222222222,
+    "type": "ECONA",
+    "name": "Manuel Becerra"
+  },
+  {
+    "lat": 40.3972222,
+    "lng": -3.6675,
+    "type": "ECONA",
+    "name": "Vallecas"
+  },
+  {
+    "lat": 40.3849444,
+    "lng": -3.7187222222222225,
+    "type": "ECONA",
+    "name": "Fernández Ladreda"
+  },
+  {
+    "lat": 40.3471,
+    "lng": -3.6375,
+    "type": "ECONA",
+    "name": "Arturo Soria"
+  },
+  {
+    "lat": 40.3471111,
+    "lng": -3.713327777777778,
+    "type": "ECONA",
+    "name": "Villaverde"
+  },
+  {
+    "lat": 40.3955556,
+    "lng": -3.73,
+    "type": "ECONA",
+    "name": "Farolillo"
+  },
+  {
+    "lat": 40.4111111,
+    "lng": -3.7377777777777776,
+    "type": "ECONA",
+    "name": "Alto Extremadura"
+  },
+  {
+    "lat": 40.4069444,
+    "lng": -3.649722222222222,
+    "type": "ECONA",
+    "name": "Avda Moratalaz"
+  },
+  {
+    "lat": 40.4216667,
+    "lng": -3.748888888888889,
+    "type": "ECONA",
+    "name": "Casa de Campo"
+  },
+  {
+    "lat": 40.38,
+    "lng": -3.6011111111111114,
+    "type": "ECONA",
+    "name": "Santa Eugenia"
+  },
+  {
+    "lat": 40.4604722,
+    "lng": -3.578888888888889,
+    "type": "ECONA",
+    "name": "Embajada"
+  },
+  {
+    "lat": 40.4781111,
+    "lng": -3.5788333333333333,
+    "type": "ECONA",
+    "name": "Barajas Pueblo"
+  },
+  {
+    "lat": 40.3763611,
+    "lng": -3.776638888888889,
+    "type": "ECONA",
+    "name": "Cuatro Vientos"
+  },
+  {
+    "lat": 40.5192778,
+    "lng": -3.7734444444444444,
+    "type": "ECONA",
+    "name": "El Pardo"
+  },
+  {
+    "lat": 40.4619167,
+    "lng": -3.61525,
+    "type": "ECONA",
+    "name": "Campo de las Naciones"
+  },
+  {
+    "lat": 40.4942056,
+    "lng": -3.6605055555555555,
+    "type": "ECONA",
+    "name": "Sanchinarro"
+  },
+  {
+    "lat": 40.3981139,
+    "lng": -3.6868250000000002,
+    "type": "ECONA",
+    "name": "Mendez Álvaro"
+  },
+  {
+    "lat": 40.4398444,
+    "lng": -3.6903555555555556,
+    "type": "ECONA",
+    "name": "Castellana"
+  },
+  {
+    "lat": 40.4655556,
+    "lng": -3.6886111111111113,
+    "type": "ECONA",
+    "name": "Pza de Castilla"
+  },
+  {
+    "lat": 40.4625278,
+    "lng": -3.612138888888889,
+    "type": "ECONA",
+    "name": "Ensanche de Vallecas"
+  },
+  {
+    "lat": 40.4625278,
+    "lng": -3.580666666666666,
+    "type": "ECONA",
+    "name": "Urb Embajada 2"
+  },
+  {
+    "lat": 40.5005556,
+    "lng": -3.6897222222222226,
+    "type": "ECONA",
+    "name": "Tres Olivos"
+  }
+]

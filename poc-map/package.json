@@ -1,0 +1,26 @@
+{
+  "name": "poc-map",
+  "version": "1.0.0",
+  "description": "Example app of a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "MONGO_HOST=localhost MONGO_PORT=27017 MONGO_DB=poc-db NODE_PATH=app/src PORT=8000 node --harmony_async_await app/index"
+  },
+  "keywords": [],
+  "author": "rrequero<rrequero@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "ejs": "^2.4.2",
+    "koa": "^2.0.0",
+    "koa-body": "^1.4.0",
+    "koa-convert": "^1.2.0",
+    "koa-logger": "^2.0.0",
+    "koa-mount": "2.0.0",
+    "koa-router": "^7.0.1",
+    "koa-static": "^3.0.0",
+    "koa-views": "^5.0.2",
+    "mongoose": "^4.5.3"
+  }
+}
