@@ -1,0 +1,32 @@
+version: '2'
+services:
+  mongo:
+    image: mongo
+    container_name: mongo-poc-map
+  nginx:
+    image: nginx
+    volumes:
+      - "./nginx:/etc/nginx"
+    depends_on:
+      - poc-map
+    ports:
+      - "80:80"  
+  poc-map:
+    build:
+      context: ./poc-map
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGO_PORT=27017
+      - MONGO_HOST=mongo
+      - MONGO_DB=poc-db
+      - PORT=8000
+    restart: always
+    container_name: poc-map
+    volumes:
+      - "./poc-map/app:/home/poc-map/app"
+    depends_on:
+      - mongo
+      
+    

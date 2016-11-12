@@ -10,7 +10,7 @@ RUN addgroup $USER && adduser -s /bin/bash -D -G $USER $USER
 USER $USER
 WORKDIR /home/$USER
 
-COPY package.json /home/$NAME/package.json
+COPY ./package.json /home/$NAME/package.json
 RUN cd /home/$NAME && npm install
 
 
