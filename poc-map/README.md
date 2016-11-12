@@ -20,3 +20,16 @@ NODE_PATH: (default app/src)
 npm start
 ```
 Open http://localhost:8000/map
+
+
+## Execution with Docker
+
+### Build image
+````
+docker build . -t poc-map
+```
+
+### Run image
+````
+docker run -e MONGO_DB=poc-db -e MONGO_HOST=localhost -e MONGO_PORT=27017 -e PORT=8000 poc-map
+```

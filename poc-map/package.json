@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "MONGO_HOST=localhost MONGO_PORT=27017 MONGO_DB=poc-db NODE_PATH=app/src PORT=8000 node --harmony_async_await app/index"
+    "start": "NODE_PATH=app/src node --harmony_async_await app/index"
   },
   "keywords": [],
   "author": "rrequero<rrequero@gmail.com>",
