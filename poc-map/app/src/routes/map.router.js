@@ -1,8 +1,6 @@
 const Router = require('koa-router');
 const Poc = require('models/poc.model');
-const ApiRouter = new Router({
-    prefix: '/map',
-});
+const ApiRouter = new Router();
 
 class Map {
     static async mapView(ctx) {

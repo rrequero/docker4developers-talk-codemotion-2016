@@ -19,4 +19,4 @@ NODE_PATH: (default app/src)
 ````
 npm start
 ```
-Open http://localhost:8000/map
+Open http://localhost:8000
