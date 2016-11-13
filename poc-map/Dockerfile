@@ -1,4 +1,6 @@
-FROM mhart/alpine-node:7.1.0
+
+FROM node:7.1.0-alpine
+
 MAINTAINER rrequero@gmail.com
 
 ENV NAME poc-map
@@ -12,7 +14,6 @@ WORKDIR /home/$USER
 
 COPY ./package.json /home/$NAME/package.json
 RUN cd /home/$NAME && npm install
-
 
 
 COPY ./app /home/$NAME/app
