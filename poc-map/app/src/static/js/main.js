@@ -68,7 +68,7 @@ function paintPoints(data) {
 }
 
 function getPoints() {
-    $.get('/map/poc').success(function(data){
+    $.get('/poc').success(function(data){
         if (!data || data.length === 0){
             alert('No hay datos');
             return;
